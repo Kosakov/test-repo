@@ -1,0 +1,24 @@
+From 78b843d7dfca1536cb613cafce80c3190502b9c3 Mon Sep 17 00:00:00 2001
+From: Kosakov <Nikolaikosakov@gmail.com>
+Date: Mon, 9 Dec 2024 19:29:24 +0100
+Subject: [PATCH] Modidying first 2 lines in firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 0db3314..595ef3f 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-I love coding.
+-This is exciting.
++I love coding(updated).
++This is exciting(updated).
+ Stay focused today.
+ You got this.
+ It’s a challenge.
+-- 
+2.45.0.windows.1
+
